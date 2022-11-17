@@ -1,0 +1,67 @@
+﻿*{
+	border:0 none;
+	margin:0;
+	padding:0;	
+}
+
+body{
+	background-color: black;
+	background:url("../img/bodyBg.png") repeat scroll 0 0 black;
+}
+
+
+
+#topBanner {
+	position: absolute; top: 0; left: 0;
+	background:url("../img/topBanner.png") repeat-x scroll 0 0 transparent;
+	height:87px;
+	width:100%;
+	z-index: 10;
+}
+
+#page{
+	width: 1090px;
+	height: 400px;
+	margin: 0 auto;
+	position: relative;
+	z-index: 20;	
+	/*border: 1px solid yellow;*/
+}
+
+	#bannerArea{
+		width: 100%;
+		height: 87px;
+	}
+
+	#logo{
+		width: 337px;
+		height: 87px;
+		position: absolute; top: 0px; left: 0px;
+		background: url('../img/gumworm-logo.png') transparent no-repeat;	
+	}
+	
+	#toolInfo{
+		width: 593px;
+		height: 144px;
+		position: absolute; top: 30px; left: 460px;
+		background: url('../img/info-skillChecker.png') no-repeat;
+	}
+	
+	#content{
+		/*border: 1px solid red;*/
+		position: absolute; top: 100px; left: 0;
+		width: 100%;
+		height: 300px;
+
+	}
+	
+	#contentLeft{
+		width: 300px;
+		float: left;	
+	}
+	
+	#contentRight{
+		width: 600px;
+		float: left;	
+		margin: 100px 0 0 160px;
+	}

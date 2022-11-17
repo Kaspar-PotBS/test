@@ -1,0 +1,316 @@
+﻿    #skillTool
+    {
+        
+        width: 600px;
+        float: left;
+        font-weight: bold;
+	    margin-left: 20px;
+        }
+
+    #charMenu
+    {
+        width: 100%;
+        margin: 0 0 20px 0;
+        float: left;
+        }
+        
+        #charMenu a
+        {
+            height: 120px; width: 100px;
+            float: left;
+            background-image: url("../img/NO_icon.png");
+            margin: 0px 10px 0px 0px;          
+            text-align: center;
+            font: bold 14px/200px arial;
+            border: 1px solid silver;
+            color: #483014;
+            font-family: Trebuchet MS;
+            text-decoration: none;
+            }        
+
+     #Results
+     {
+        width: 100%;
+        margin: 0 0 20px 0;
+        float: left;
+		margin-bottom: 20px;
+        }
+           
+              #Points
+              {
+               width: 240px; 
+               padding: 5px;
+               float:left;
+               height: 30px;
+               /* background: url("../img/green2.png") transparent;*/
+			   background-color: #2e905f;
+               color: White;
+               font: bold 18px/28px Trebuchet MS;
+               float: left;
+               text-indent: 5px;
+               }
+
+
+
+              #SendNumber
+              {
+               width: 314px; 
+               padding: 5px;
+               float:left;
+               height: 30px;
+               color: white;
+               background: url(../img/topBanner.png) no-repeat no-repeat;
+			   background-size: 100%;
+               font: bold 18px/28px Trebuchet MS;
+               text-indent: 5px;  
+			       text-align: center;
+line-height: 35px;	
+    padding-right: 25px;
+               }
+               
+			   input#SkillCode
+			   {
+				width: 90px;
+				font: inherit;
+				background: lightslategray;
+    line-height: normal;
+			   }
+			   
+			   
+			   
+			   #URLBox
+              {
+               width: 564px; 
+               padding: 5px;
+               float:left;
+               height: 30px;
+               color: white;
+               background: url(../img/topBanner.png) no-repeat no-repeat;
+			   background-size: 100%;
+               font: bold 18px/28px Trebuchet MS;
+               text-indent: 152px;  
+line-height: 35px;	
+    padding-right: 25px;
+               }
+			   
+				input#URLField
+			   {
+				width: 453px;
+				font: inherit;
+				background: lightslategray;
+    line-height: normal;
+			   }
+			   
+         .OneSkill
+         {
+             width: 300px;
+             }      
+               
+/******************************************/
+
+
+img
+{
+    margin: 5px; margin-right: 0px;
+    display: inline;
+    float: left;
+    }
+    
+        
+    h1
+    {
+        font-family: Trebuchet MS;
+        font-size: 19px;
+        margin: 0 0 5px 0;
+        color: #546085;
+        }
+        
+    h2
+    {
+        font-family: Trebuchet MS;
+        font-size: 14px;
+        color: #546085;
+        float: left;
+        }        
+        
+      /*  #slider, #slider2{float: left; margin-top: 16px; margin-left: 20px;} */
+      
+      #slider
+      {
+          position: relative;
+          top:90px; 
+          left: 0;
+          z-index: 0;
+          height: 1px;
+          background: transparent;
+          border: 1px solid green;
+          display: none;
+          }
+        
+        .skillhead{
+	        display: block;
+		    color: #B8B5B2;
+		    font-family: Trebuchet MS, Arial;
+		    font-size: 12px;
+			width: 425px;
+	        }
+        
+       .ui-tabs .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs .ui-tabs-nav li.ui-state-disabled a, .ui-tabs .ui-tabs-nav li.ui-state-processing a
+        {color: red !important;
+         font-weight: bold;} 
+         
+         #slider1 .ui-widget-header, #slider2 .ui-widget-header, #slider3 .ui-widget-header, #slider4 .ui-widget-header, #slider5 .ui-widget-header, #slider6 .ui-widget-header, #slider7 .ui-widget-header, #slider8 .ui-widget-header
+         {
+             background: url("../img/green2.png") transparent;
+             background-repeat: repeat;
+             border: 0;
+			 opacity: .6;
+         
+             }
+             
+figcaption {
+    border: 0;
+    color: #f6931f;
+    font-weight: bold;
+    text-align: center;
+    width: 36px;
+}	
+ 
+      
+             .ui-widget-content{background:transparent; /*border: 0px;*/   }
+             
+             #slider1, #slider2, #slider3, #slider4, #slider5, #slider6, #slider7, #slider8
+             {                 
+                
+                 width: 374px;
+                 margin-top: 26px;
+                 margin-left: 24px;
+                 
+                 }
+             
+			 #skill-1, #skill-2, #skill-3, #skill-4, #skill-5, #skill-6, #skill-7, #skill-8, #skill-9 {
+				background-color: transparent;
+				
+  			 }  
+    
+                
+                 
+                 #tab1,#tab2,#tab3,#tab4,#tab5,#tab6,#tab7,#tab8 {display: block; width: 440px; height: 40px;}
+                 
+              .ui-slider-handle{}
+              
+              
+              /*
+              
+              .ui-tooltip
+              {
+                  
+                  top: 300px !important;
+                  left: 800px !important;
+                  }
+              */
+
+
+     /* betrifft die icons */
+     .Beschreibung{float: left; margin: 5px} 
+
+#Beschreibungen
+{
+    position: absolute; 
+    top: 220px;
+    left: 320px;
+    padding: 8px;
+    padding-top: 8px;
+    max-width: 575px; 
+	width: -webkit-fill-available;
+    border: 1px dotted gray;
+    z-index: 55;
+    background-color: #2D2C2B;
+    color: #B8B5B2;
+    font-family: Trebuchet MS, Arial;
+    font-size: 12px;   
+    display: block;
+	margin-left: 140px;
+    }
+    
+       .discription
+       {
+		 position: relative; 
+		 top: 0px;      
+ 		 display: inherit;	
+ 		 padding: 0 0 0 5px;
+ 		 max-width:537px;
+		 width: -webkit-fill-available;
+		}
+		
+			       .discription ul
+			       {
+					text-indent: 20px;
+					list-style-position: inside;
+					}
+		
+		 .discription h1{
+			border: 0;
+			padding: 0;
+			margin: 0;
+		}
+  
+  
+  
+  /* charNavi */
+  
+  #charNavi{
+	float: left; 
+	width: 600px; 
+
+	margin: -30px 0 0 15px;	
+	}
+                 
+           .charNaviItem{
+           		float:left;
+				width: 110px; height: 305px;
+
+			}
+			
+			.charNaviItem a 
+			{
+				width: 182px; height: 305px;	
+				float: left;
+				}
+			
+.brawling a { background: url("../img/brawling.png") transparent no-repeat;
+}
+.brawling a:hover { background: url("../img/brawling_over.png") transparent no-repeat;
+}
+
+.dirtyfighting a { background: url("../img/dirtyfighting.png") transparent no-repeat; margin-left: -16px; }
+.dirtyfighting a:hover { background: url("../img/dirtyfighting_over.png") transparent no-repeat; }
+
+.florentine a { background: url("../img/florentine.png") transparent no-repeat;
+margin-left: 30px; }
+.florentine a:hover { background: url("../img/florentine_over.png") transparent no-repeat; }
+
+.fencing a { background: url("../img/fencing.png") transparent no-repeat; margin-left: 53px; }
+.fencing a:hover { background: url("../img/fencing_over.png") transparent no-repeat; }
+
+
+/* .free a { background: url("../img/free.png") transparent no-repeat; margin: -5px 0 0 0;  } */
+/* .free a:hover { background: url("../img/free_over.png") transparent no-repeat; margin: -5px 0 0 0; } */
+
+
+.csc-frame-frame1
+{
+	width: 900px;
+	float: left;
+	color: #2d2d2d;
+	margin: 140px 0 0 30px; 
+	border-top: 1px solid #2d2d2d;
+	padding: 8px;
+	
+}
+
+.csc-frame-frame1 p,.csc-frame-frame1 h1, .csc-frame-frame1 a
+{
+	color: #2d2d2d;
+	font: 11px/14px Arial;
+}
