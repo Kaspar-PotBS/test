@@ -42,7 +42,7 @@
                padding: 5px;
                float:left;
                height: 30px;
-               background: url("../img/green2.png") transparent;
+               /*background: url("../img/green2.png") transparent;*/
 			   background-color: rgb(46, 144, 95);
                color: White;
                font: bold 18px/28px Trebuchet MS;
