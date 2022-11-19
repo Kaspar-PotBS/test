@@ -911,22 +911,226 @@ function googleTranslateElementInit() {
                 var pp1 = $("#SkillCode").val().charAt(0);
                 $("#slider1").slider({ value: pp1 });
                 $("#skill-1").val(pp1);
+				
+				let skill1value = $("#skill-1").val();
+					
+					if (skill1value == 8) { skillslider1 = 13;
+					   
+					   }   else { 
+
+					if (skill1value == 7) { skillslider1 = 10;
+					   
+					   
+						}   else {
+
+					if (skill1value == 6) { skillslider1 = 8;
+					   
+					   
+						}   else { 
+						
+					if (skill1value == 5) { skillslider1 = 6;
+					   
+					   
+						}   else { 
+						
+					if (skill1value == 4) { skillslider1 = 4;
+					   
+					   
+						}   else { 
+						
+					if (skill1value == 3) { skillslider1 = 3;
+					   
+					   
+						}   else { 
+						
+					if (skill1value == 2) { skillslider1 = 2;
+					   
+					   
+						}   else { 
+
+					if (skill1value == 1) { skillslider1 = 1;
+					   
+					   
+						}   else { skillslider1 = 0;
+						
+}						
+}
+}
+}
+}
+}
+}
+}
+				
 
                 var pp2 = $("#SkillCode").val().charAt(1);
                 $("#slider2").slider({ value: pp2 });
                 $("#skill-2").val(pp2);
+				
+				let skill2value = $("#skill-2").val();
+					
+					if (skill2value == 8) { skillslider2 = 13;
+					   
+					   }   else { 
+
+					if (skill2value == 7) { skillslider2 = 10;
+					   
+					   
+						}   else {
+
+					if (skill2value == 6) { skillslider2 = 8;
+					   
+					   
+						}   else { 
+						
+					if (skill2value == 5) { skillslider2 = 6;
+					   
+					   
+						}   else { 
+						
+					if (skill2value == 4) { skillslider2 = 4;
+					   
+					   
+						}   else { 
+						
+					if (skill2value == 3) { skillslider2 = 3;
+					   
+					   
+						}   else { 
+						
+					if (skill2value == 2) { skillslider2 = 2;
+					   
+					   
+						}   else { 
+
+					if (skill2value == 1) { skillslider2 = 1;
+					   
+					   
+						}   else { skillslider2 = 0;
+						
+}						
+}
+}
+}
+}
+}
+}
+}
+
 
                 var pp3 = $("#SkillCode").val().charAt(2);
                 $("#slider3").slider({ value: pp3 });
                 $("#skill-3").val(pp3);
+				
+				let skill3value = $("#skill-3").val();
+					
+					if (skill3value == 8) { skillslider3 = 13;
+					   
+					   }   else { 
+
+					if (skill3value == 7) { skillslider3 = 10;
+					   
+					   
+						}   else {
+
+					if (skill3value == 6) { skillslider3 = 8;
+					   
+					   
+						}   else { 
+						
+					if (skill3value == 5) { skillslider3 = 6;
+					   
+					   
+						}   else { 
+						
+					if (skill3value == 4) { skillslider3 = 4;
+					   
+					   
+						}   else { 
+						
+					if (skill3value == 3) { skillslider3 = 3;
+					   
+					   
+						}   else { 
+						
+					if (skill3value == 2) { skillslider3 = 2;
+					  
+					   
+						}   else { 
+
+					if (skill3value == 1) { skillslider3 = 1;
+					   
+					   
+						}   else { skillslider3 = 0;
+						
+}						
+}
+}
+}
+}
+}
+}
+}
+				
 
                 var pp4 = $("#SkillCode").val().charAt(3);
                 $("#slider4").slider({ value: pp4 });
                 $("#skill-4").val(pp4);
+				
+				let skill4value = $("#skill-4").val();
+					
+					if (skill4value == 8) { skillslider4 = 13;
+					   
+					   }   else { 
 
+					if (skill4value == 7) { skillslider4 = 10;
+					   
+					   
+						}   else {
 
+					if (skill4value == 6) { skillslider4 = 8;
+					   
+					   
+						}   else { 
+						
+					if (skill4value == 5) { skillslider4 = 6;
+					   
+					   
+						}   else { 
+						
+					if (skill4value == 4) { skillslider4 = 4;
+					   
+					   
+						}   else { 
+						
+					if (skill4value == 3) { skillslider4 = 3;
+					   
+					   
+						}   else { 
+						
+					if (skill4value == 2) { skillslider4 = 2;
+					   
+					   
+						}   else { 
+
+					if (skill4value == 1) { skillslider4 = 1;
+					   
+					   
+						}   else { skillslider4 = 0;
+						
+}						
+}
+}
+}
+}
+}
+}
+}
+				
+				
                 $("#UsedPoints").text($("#skill-1").val + $("#skill-2").val + $("#skill-3").val + $("#skill-4").val);
-                $("#UsedPoints").text($("#slider1").slider("value") + $("#slider2").slider("value") + $("#slider3").slider("value") + $("#slider4").slider("value"));
+				
+				$("#UsedPoints").text(skillslider1 + skillslider2 + skillslider3 + skillslider4);
 
                     if ($("#UsedPoints").text() > 25) {
                         // alert('hallo');
