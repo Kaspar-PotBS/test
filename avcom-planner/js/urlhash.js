@@ -6,3 +6,5 @@ for(var i = 0; i < hashParams.length; i++){
 	$('#SkillCode').trigger('change');
 };
 });
+
+

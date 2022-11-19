@@ -370,8 +370,6 @@
 }
 }
 }
-
-				
 					
 					
 					
@@ -381,6 +379,10 @@
                     // update SkillCode
                     var skillcode = $("#skill-1").val() + $("#skill-2").val() + $("#skill-3").val() + $("#skill-4").val();
                     $("#SkillCode").val(skillcode);
+					
+					var skillhash = document.getElementById("SkillCode").value;
+					var url = "SkillCode="+skillhash;
+					window.location.hash = url;
 
                     if ($("#UsedPoints").text() > 25) {
                         // alert('hallo');
@@ -468,6 +470,10 @@
                     // update SkillCode
                     var skillcode = $("#skill-1").val() + $("#skill-2").val() + $("#skill-3").val() + $("#skill-4").val();
                     $("#SkillCode").val(skillcode);
+					
+					var skillhash = document.getElementById("SkillCode").value;
+					var url = "SkillCode="+skillhash;
+					window.location.hash = url;
 
                     if ($("#UsedPoints").text() > 25) {
                         // alert('hallo');
@@ -555,6 +561,10 @@
                     // update SkillCode
                     var skillcode = $("#skill-1").val() + $("#skill-2").val() + $("#skill-3").val() + $("#skill-4").val();
                     $("#SkillCode").val(skillcode);
+					
+					var skillhash = document.getElementById("SkillCode").value;
+					var url = "SkillCode="+skillhash;
+					window.location.hash = url;
 
                     if ($("#UsedPoints").text() > 25) {
                         // alert('hallo');
@@ -638,6 +648,10 @@
                     // update SkillCode
                     var skillcode = $("#skill-1").val() + $("#skill-2").val() + $("#skill-3").val() + $("#skill-4").val();
                     $("#SkillCode").val(skillcode);
+					
+					var skillhash = document.getElementById("SkillCode").value;
+					var url = "SkillCode="+skillhash;
+					window.location.hash = url;
 
                     if ($("#UsedPoints").text() > 25) {
                         // alert('hallo');
