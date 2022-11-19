@@ -472,6 +472,7 @@
                     if ($("#UsedPoints").text() > 25) {
                         // alert('hallo');
                         $("#Points").css("background-color", "#a52a2a");
+						
 
                     } else { $("#Points").css("background-color", "#2e905f"); }
 
