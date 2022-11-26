@@ -8,6 +8,7 @@ body{
 	background-color: black;
 	background:url("../img/bodyBg.png") repeat scroll 0 0 black;
 	backdrop-filter: brightness(1.5);
+	    min-width: fit-content; /* mobile */
 }
 
 
@@ -22,7 +23,7 @@ body{
 
 #page{
 	width: 1090px;
-	height: 400px;
+	height: 965px;
 	margin: 0 auto;
 	position: relative;
 	z-index: 20;	
