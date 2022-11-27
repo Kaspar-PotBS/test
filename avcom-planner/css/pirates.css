@@ -282,6 +282,7 @@ figcaption {
 			
 .brawling a { background: url("../img/brawling.png") transparent no-repeat;
     margin-top: 5px;
+	width: 100px;
 	}
 .brawling a:hover { background: url("../img/brawling.png") transparent no-repeat;
     filter: drop-shadow(0px 0px 6px white);
@@ -289,20 +290,29 @@ figcaption {
 
 .dirtyfighting a { background: url("../img/dirtyfighting.png") transparent no-repeat; margin-left: -16px;
     margin-top: 8px;
+	width: 162px;
+	z-index: 200;
+    position: absolute;
 	}
 .dirtyfighting a:hover { background: url("../img/dirtyfighting.png") transparent no-repeat; 
     filter: drop-shadow(0px 0px 6px white);
 	}
 
 .florentine a { background: url("../img/florentine.png") transparent no-repeat;
-margin-left: 30px; }
+margin-left: 30px; 
+width: 142px;
+z-index: 100;
+    position: absolute;
+}
+
 
 .florentine a:hover { background: url("../img/florentine.png") transparent no-repeat; 
     filter: drop-shadow(0px 0px 6px white);
 	}
 
-.fencing a { background: url("../img/fencing.png") transparent no-repeat; margin-left: 53px;
+.fencing a { background: url("../img/fencing.png") transparent no-repeat; margin-left: 60px;
 margin-top: 12px;
+width: 110px;
 }
 
 .fencing a:hover { background: url("../img/fencing.png") transparent no-repeat; 
