@@ -1,0 +1,18 @@
+<html>
+<script>
+async function makeRequest() {
+  try {
+    const response = await fetch('64.27.10.91');
+
+    console.log('response.status: ', response.status); // 👉️ 200
+    console.log(response);
+
+  } catch (err) {
+    console.log(err);
+  }
+}
+
+makeRequest();
+
+</script>
+</html>
