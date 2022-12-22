@@ -10429,7 +10429,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.00",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -10592,7 +10592,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -10610,7 +10610,7 @@
 "crew":"95",
 "target_tracking":"13",
 "base_durability":"4",
-"insurance_value":"23734",
+"insurance_value":"20675",
 "os_best_sailing_point":"135",
 "os_max_speed":"54",
 "os_upwind_speed":"15.66",
@@ -10755,7 +10755,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -10773,7 +10773,7 @@
 "crew":"170",
 "target_tracking":"14",
 "base_durability":"4",
-"insurance_value":"23609",
+"insurance_value":"15970",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"13.25",
@@ -10918,7 +10918,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11081,7 +11081,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.80",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11099,7 +11099,7 @@
 "crew":"170",
 "target_tracking":"14",
 "base_durability":"3",
-"insurance_value":"37975",
+"insurance_value":"33242",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"13.25",
@@ -11244,7 +11244,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.80",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11262,7 +11262,7 @@
 "crew":"1",
 "target_tracking":"0",
 "base_durability":"10",
-"insurance_value":"23",
+"insurance_value":"28",
 "os_best_sailing_point":"180",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -11407,7 +11407,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"0",
 "swivel_dps_400":"0.00",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11425,7 +11425,7 @@
 "crew":"170",
 "target_tracking":"21",
 "base_durability":"3",
-"insurance_value":"26015",
+"insurance_value":"21329",
 "os_best_sailing_point":"135",
 "os_max_speed":"59",
 "os_upwind_speed":"17.7",
@@ -11570,7 +11570,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.11",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11733,7 +11733,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.27",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11896,7 +11896,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -11940,7 +11940,7 @@
 "structure_integrity":"727",
 "port_armour":"551",
 "starboard_armour":"551",
-"bow_armour":"286",
+"bow_armour":"276",
 "stern_armour":"133",
 "mast_integrity":"760",
 "structure_dr":"0",
@@ -12059,7 +12059,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"15.2",
 "swivel_dps_400":"2.76",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -12222,7 +12222,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"14.4",
 "swivel_dps_400":"2.62",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -12240,7 +12240,7 @@
 "crew":"100",
 "target_tracking":"22",
 "base_durability":"3",
-"insurance_value":"12748",
+"insurance_value":"10419",
 "os_best_sailing_point":"135",
 "os_max_speed":"60",
 "os_upwind_speed":"18",
@@ -12385,7 +12385,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.80",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -12403,7 +12403,7 @@
 "crew":"100",
 "target_tracking":"22",
 "base_durability":"6",
-"insurance_value":"6374",
+"insurance_value":"4859",
 "os_best_sailing_point":"135",
 "os_max_speed":"58",
 "os_upwind_speed":"17.4",
@@ -12548,7 +12548,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -12711,7 +12711,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -12874,7 +12874,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022-02-13 ( 2021-01-04 / 2.17.7 )"
 
 },
 
@@ -12892,7 +12892,7 @@
 "crew":"100",
 "target_tracking":"20",
 "base_durability":"4",
-"insurance_value":"7274",
+"insurance_value":"5827",
 "os_best_sailing_point":"135",
 "os_max_speed":"65",
 "os_upwind_speed":"22.75",
@@ -12969,7 +12969,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -12981,7 +12981,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -12993,7 +12993,7 @@
 "gun_deck_weight":"0",
 "gun_deck_range":"0",
 "gun_deck_damage_gun":"0",
-"gun_deck_reload":"1",
+"gun_deck_reload":"0",
 "gun_deck_max_damage":"0",
 "gun_deck_accuracy_200":"0",
 "gun_deck_damage_200":"0",
@@ -13037,7 +13037,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -13055,7 +13055,7 @@
 "crew":"90",
 "target_tracking":"23",
 "base_durability":"5",
-"insurance_value":"2595",
+"insurance_value":"2092",
 "os_best_sailing_point":"30",
 "os_max_speed":"66",
 "os_upwind_speed":"26.4",
@@ -13200,7 +13200,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"8",
 "swivel_dps_400":"1.45",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -13210,7 +13210,7 @@
 "level":"10",
 "type":"Scout",
 "variant":"Mastercraft",
-"size":"Medium",
+"size":"Small",
 "classes":"NO / PV / FT / BC / CT",
 "cargo_capacity":"75",
 "os_visibility":"40.5",
@@ -13218,7 +13218,7 @@
 "crew":"100",
 "target_tracking":"23",
 "base_durability":"4",
-"insurance_value":"4967",
+"insurance_value":"5770",
 "os_best_sailing_point":"30",
 "os_max_speed":"66",
 "os_upwind_speed":"26.4",
@@ -13363,7 +13363,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"8",
 "swivel_dps_400":"1.74",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -13458,7 +13458,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -13470,7 +13470,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -13482,7 +13482,7 @@
 "gun_deck_weight":"0",
 "gun_deck_range":"0",
 "gun_deck_damage_gun":"0",
-"gun_deck_reload":"1",
+"gun_deck_reload":"0",
 "gun_deck_max_damage":"0",
 "gun_deck_accuracy_200":"0",
 "gun_deck_damage_200":"0",
@@ -13526,7 +13526,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -13544,7 +13544,7 @@
 "crew":"135",
 "target_tracking":"31",
 "base_durability":"3",
-"insurance_value":"11268",
+"insurance_value":"9084",
 "os_best_sailing_point":"135",
 "os_max_speed":"64",
 "os_upwind_speed":"20.48",
@@ -13689,7 +13689,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.71",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -13707,7 +13707,7 @@
 "crew":"175",
 "target_tracking":"22",
 "base_durability":"3",
-"insurance_value":"23869",
+"insurance_value":"17599",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.25",
@@ -13843,16 +13843,16 @@
 "swivel_guns_guns_per_side":"2 x 0.5",
 "swivel_guns_weight":"1",
 "swivel_guns_range":"125",
-"swivel_guns_damage_gun":"80",
+"swivel_guns_damage_gun":"8",
 "swivel_guns_reload":"4.8",
-"swivel_guns_max_damage":"160",
+"swivel_guns_max_damage":"16",
 "swivel_accuracy_200":"100",
-"swivel_damage_200":"160",
-"swivel_dps_200":"33.33",
+"swivel_damage_200":"16",
+"swivel_dps_200":"3.33",
 "swivel_accuracy_400":"100",
-"swivel_damage_400":"160",
-"swivel_dps_400":"33.33",
-"last_updated":"0"
+"swivel_damage_400":"16",
+"swivel_dps_400":"3.33",
+"last_updated":"2022-05"
 
 },
 
@@ -14015,7 +14015,7 @@
 "swivel_accuracy_400":"0",
 "swivel_damage_400":"0",
 "swivel_dps_400":"0.00",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -14178,7 +14178,7 @@
 "swivel_accuracy_400":"0",
 "swivel_damage_400":"0",
 "swivel_dps_400":"0.00",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -14196,7 +14196,7 @@
 "crew":"6",
 "target_tracking":"20",
 "base_durability":"10",
-"insurance_value":"204",
+"insurance_value":"147",
 "os_best_sailing_point":"90",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -14331,17 +14331,17 @@
 "stern_chasers_dps_400":"0.00",
 "swivel_guns_guns_per_side":"2 x 0.5",
 "swivel_guns_weight":"1",
-"swivel_guns_range":"100",
-"swivel_guns_damage_gun":"6",
-"swivel_guns_reload":"8",
-"swivel_guns_max_damage":"12",
+"swivel_guns_range":"125",
+"swivel_guns_damage_gun":"8",
+"swivel_guns_reload":"5.5",
+"swivel_guns_max_damage":"16",
 "swivel_accuracy_200":"100",
-"swivel_damage_200":"12",
-"swivel_dps_200":"1.50",
+"swivel_damage_200":"16",
+"swivel_dps_200":"2.91",
 "swivel_accuracy_400":"100",
-"swivel_damage_400":"12",
-"swivel_dps_400":"1.50",
-"last_updated":"0"
+"swivel_damage_400":"16",
+"swivel_dps_400":"2.91",
+"last_updated":"2022-05"
 
 },
 
@@ -14359,7 +14359,7 @@
 "crew":"700",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"1404020",
+"insurance_value":"712288",
 "os_best_sailing_point":"135",
 "os_max_speed":"48",
 "os_upwind_speed":"12",
@@ -14504,7 +14504,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -14522,7 +14522,7 @@
 "crew":"75",
 "target_tracking":"21",
 "base_durability":"5",
-"insurance_value":"2374",
+"insurance_value":"1670",
 "os_best_sailing_point":"135",
 "os_max_speed":"65",
 "os_upwind_speed":"19.5",
@@ -14599,7 +14599,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -14611,7 +14611,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -14623,7 +14623,7 @@
 "gun_deck_weight":"0",
 "gun_deck_range":"0",
 "gun_deck_damage_gun":"0",
-"gun_deck_reload":"1",
+"gun_deck_reload":"0",
 "gun_deck_max_damage":"0",
 "gun_deck_accuracy_200":"0",
 "gun_deck_damage_200":"0",
@@ -14635,7 +14635,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -14647,7 +14647,7 @@
 "stern_chasers_weight":"0",
 "stern_chasers_range":"0",
 "stern_chasers_damage_gun":"0",
-"stern_chasers_reload":"1",
+"stern_chasers_reload":"0",
 "stern_chasers_max_damage":"0",
 "stern_chasers_accuracy_200":"0",
 "stern_chasers_damage_200":"0",
@@ -14667,7 +14667,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -14685,7 +14685,7 @@
 "crew":"195",
 "target_tracking":"25",
 "base_durability":"3",
-"insurance_value":"36810",
+"insurance_value":"30399",
 "os_best_sailing_point":"135",
 "os_max_speed":"54",
 "os_upwind_speed":"13.5",
@@ -14830,7 +14830,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.80",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -14843,12 +14843,12 @@
 "size":"Huge",
 "classes":"NO / PV / FT / BC / CT",
 "cargo_capacity":"2250",
-"os_visibility":"100",
-"os_spotting":"75",
+"os_visibility":"75",
+"os_spotting":"0",
 "crew":"375",
 "target_tracking":"18",
 "base_durability":"3",
-"insurance_value":"199270",
+"insurance_value":"185379",
 "os_best_sailing_point":"135",
 "os_max_speed":"60",
 "os_upwind_speed":"24",
@@ -14937,7 +14937,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -14993,7 +14993,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -15002,7 +15002,7 @@
 "model":"Hades Frigate",
 "level":"50",
 "type":"Scout",
-"variant":"Standard",
+"variant":"Heavy",
 "size":"Huge",
 "classes":"CT",
 "cargo_capacity":"180",
@@ -15011,7 +15011,7 @@
 "crew":"190",
 "target_tracking":"13",
 "base_durability":"3",
-"insurance_value":"36887",
+"insurance_value":"30059",
 "os_best_sailing_point":"135",
 "os_max_speed":"55",
 "os_upwind_speed":"19.25",
@@ -15041,8 +15041,8 @@
 "stern_armour":"410",
 "mast_integrity":"3220",
 "structure_dr":"0",
-"port_dr":"7",
-"starboard_dr":"7",
+"port_dr":"8",
+"starboard_dr":"8",
 "bow_dr":"7",
 "stern_dr":"6",
 "mast_dr":"5",
@@ -15156,7 +15156,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -15169,12 +15169,12 @@
 "size":"Small",
 "classes":"NO / PV / FT / BC / CT",
 "cargo_capacity":"150",
-"os_visibility":"33.3",
+"os_visibility":"31",
 "os_spotting":"0",
 "crew":"62",
 "target_tracking":"30",
 "base_durability":"3",
-"insurance_value":"3889",
+"insurance_value":"4832",
 "os_best_sailing_point":"90",
 "os_max_speed":"66",
 "os_upwind_speed":"21.78",
@@ -15184,13 +15184,13 @@
 "os_broad_reach_speed":"60.06",
 "os_running_speed":"55.44",
 "battle_best_sailing_point":"90",
-"battle_max_speed":"19.88",
-"battle_acceleration":"3.63",
-"battle_deceleration":"4.84",
+"battle_max_speed":"19.9",
+"battle_acceleration":"3.75",
+"battle_deceleration":"4.35",
 "battle_turning_fast":"14.2",
-"battle_turning_slow":"8.57",
+"battle_turning_slow":"8.92",
 "battle_turning_accelerating":"10.8",
-"battle_turning_decelerating":"11.81",
+"battle_turning_decelerating":"11.15",
 "battle_upwind_speed":"6.56",
 "battle_luffing_speed":"8.55",
 "battle_close_haul_speed":"17.4",
@@ -15319,7 +15319,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.20",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -15494,8 +15494,8 @@
 "variant":"Fallback",
 "size":"Small",
 "classes":"PV / CT",
-"cargo_capacity":"150",
-"os_visibility":"33.3",
+"cargo_capacity":"300",
+"os_visibility":"31",
 "os_spotting":"0",
 "crew":"62",
 "target_tracking":"30",
@@ -15510,13 +15510,13 @@
 "os_broad_reach_speed":"53.69",
 "os_running_speed":"49.56",
 "battle_best_sailing_point":"90",
-"battle_max_speed":"19.75",
-"battle_acceleration":"3.63",
-"battle_deceleration":"4.84",
-"battle_turning_fast":"13.98",
-"battle_turning_slow":"8.57",
+"battle_max_speed":"21.40",
+"battle_acceleration":"3.75",
+"battle_deceleration":"4.35",
+"battle_turning_fast":"14.75",
+"battle_turning_slow":"8.92",
 "battle_turning_accelerating":"10.8",
-"battle_turning_decelerating":"11.81",
+"battle_turning_decelerating":"11.15",
 "battle_upwind_speed":"6.52",
 "battle_luffing_speed":"8.49",
 "battle_close_haul_speed":"17.28",
@@ -15524,11 +15524,11 @@
 "battle_broad_reach_speed":"17.97",
 "battle_running_speed":"16.59",
 "structure_integrity":"520",
-"port_armour":"340",
-"starboard_armour":"340",
-"bow_armour":"170",
-"stern_armour":"85",
-"mast_integrity":"600",
+"port_armour":"360",
+"starboard_armour":"360",
+"bow_armour":"185",
+"stern_armour":"95",
+"mast_integrity":"620",
 "structure_dr":"0",
 "port_dr":"2",
 "starboard_dr":"2",
@@ -15536,19 +15536,19 @@
 "stern_dr":"0",
 "mast_dr":"0",
 "mast_offence":"0",
-"mast_defence":"44",
+"mast_defence":"45",
 "mast_resist":"0",
 "crew_offence":"0",
-"crew_defence":"44",
+"crew_defence":"45",
 "crew_resist":"0",
 "bow_offence":"0",
-"bow_defence":"44",
+"bow_defence":"45",
 "bow_resist":"0",
 "stern_offence":"0",
-"stern_defence":"44",
+"stern_defence":"45",
 "stern_resist":"0",
 "sides_offence":"0",
-"sides_defence":"44",
+"sides_defence":"45",
 "sides_resist":"0",
 "grappling_offence":"0",
 "grappling_defence":"0",
@@ -15556,23 +15556,23 @@
 "broadside_total_guns":"3",
 "broadside_weight":"18",
 "broadside_max_range":"750",
-"broadside_max_damage":"78",
-"broadside_damage_200":"78",
-"broadside_dps_200":"5.03",
-"broadside_damage_400":"78",
-"broadside_dps_400":"5.03",
+"broadside_max_damage":"84",
+"broadside_damage_200":"84",
+"broadside_dps_200":"4.10",
+"broadside_damage_400":"84",
+"broadside_dps_400":"4.10",
 "top_deck_guns_per_side":"3 x 6.0",
 "top_deck_weight":"18",
 "top_deck_range":"750",
-"top_deck_damage_gun":"26",
-"top_deck_reload":"15.5",
-"top_deck_max_damage":"78",
+"top_deck_damage_gun":"28",
+"top_deck_reload":"20.5",
+"top_deck_max_damage":"84",
 "top_deck_accuracy_200":"148",
-"top_deck_damage_200":"78",
-"top_deck_dps_200":"5.03",
+"top_deck_damage_200":"84",
+"top_deck_dps_200":"4.10",
 "top_deck_accuracy_400":"156",
-"top_deck_damage_400":"78",
-"top_deck_dps_400":"5.03",
+"top_deck_damage_400":"84",
+"top_deck_dps_400":"4.10",
 "upper_deck_guns_per_side":"0 x 0.0",
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
@@ -15645,7 +15645,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -15663,7 +15663,7 @@
 "crew":"160",
 "target_tracking":"22",
 "base_durability":"3",
-"insurance_value":"20857",
+"insurance_value":"16150",
 "os_best_sailing_point":"135",
 "os_max_speed":"65",
 "os_upwind_speed":"21.13",
@@ -15740,7 +15740,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -15752,7 +15752,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -15776,7 +15776,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -15788,7 +15788,7 @@
 "stern_chasers_weight":"0",
 "stern_chasers_range":"0",
 "stern_chasers_damage_gun":"0",
-"stern_chasers_reload":"1",
+"stern_chasers_reload":"0",
 "stern_chasers_max_damage":"0",
 "stern_chasers_accuracy_200":"0",
 "stern_chasers_damage_200":"0",
@@ -15808,7 +15808,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -15903,7 +15903,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -15915,7 +15915,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -15971,7 +15971,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.15",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -15989,7 +15989,7 @@
 "crew":"180",
 "target_tracking":"12",
 "base_durability":"3",
-"insurance_value":"51645",
+"insurance_value":"36822",
 "os_best_sailing_point":"135",
 "os_max_speed":"56",
 "os_upwind_speed":"17.92",
@@ -16134,7 +16134,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -16297,7 +16297,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.27",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -16315,7 +16315,7 @@
 "crew":"195",
 "target_tracking":"15",
 "base_durability":"3",
-"insurance_value":"61585",
+"insurance_value":"48096",
 "os_best_sailing_point":"135",
 "os_max_speed":"56",
 "os_upwind_speed":"17.92",
@@ -16460,7 +16460,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.67",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -16478,7 +16478,7 @@
 "crew":"200",
 "target_tracking":"15",
 "base_durability":"3",
-"insurance_value":"57945",
+"insurance_value":"42514",
 "os_best_sailing_point":"135",
 "os_max_speed":"56",
 "os_upwind_speed":"17.92",
@@ -16623,7 +16623,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.67",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -16786,7 +16786,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.27",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -16804,7 +16804,7 @@
 "crew":"120",
 "target_tracking":"30",
 "base_durability":"3",
-"insurance_value":"13159",
+"insurance_value":"11425",
 "os_best_sailing_point":"135",
 "os_max_speed":"64",
 "os_upwind_speed":"20.48",
@@ -16949,7 +16949,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.00",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -16967,7 +16967,7 @@
 "crew":"105",
 "target_tracking":"29",
 "base_durability":"4",
-"insurance_value":"8451",
+"insurance_value":"6225",
 "os_best_sailing_point":"135",
 "os_max_speed":"64",
 "os_upwind_speed":"20.48",
@@ -17112,7 +17112,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -17275,7 +17275,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -17438,7 +17438,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"21.6",
 "swivel_dps_400":"3.93",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -17601,7 +17601,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -17619,7 +17619,7 @@
 "crew":"20",
 "target_tracking":"15",
 "base_durability":"10",
-"insurance_value":"593",
+"insurance_value":"496",
 "os_best_sailing_point":"135",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -17635,7 +17635,7 @@
 "battle_turning_fast":"13.81",
 "battle_turning_slow":"8.45",
 "battle_turning_accelerating":"9.4",
-"battle_turning_decelerating":"11.75",
+"battle_turning_decelerating":"11.76",
 "battle_upwind_speed":"17",
 "battle_luffing_speed":"17",
 "battle_close_haul_speed":"17",
@@ -17764,7 +17764,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"8",
 "swivel_dps_400":"1.45",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -17782,7 +17782,7 @@
 "crew":"20",
 "target_tracking":"15",
 "base_durability":"10",
-"insurance_value":"433",
+"insurance_value":"324",
 "os_best_sailing_point":"90",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -17837,7 +17837,7 @@
 "grappling_resist":"0",
 "broadside_total_guns":"0.5",
 "broadside_weight":"0",
-"broadside_max_range":"0",
+"broadside_max_range":"750",
 "broadside_max_damage":"0",
 "broadside_damage_200":"0",
 "broadside_dps_200":"0.00",
@@ -17927,7 +17927,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"8",
 "swivel_dps_400":"1.45",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -17945,7 +17945,7 @@
 "crew":"170",
 "target_tracking":"16",
 "base_durability":"3",
-"insurance_value":"27775",
+"insurance_value":"21414",
 "os_best_sailing_point":"135",
 "os_max_speed":"60",
 "os_upwind_speed":"21",
@@ -18022,7 +18022,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -18034,7 +18034,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -18058,7 +18058,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -18082,15 +18082,15 @@
 "swivel_guns_weight":"2",
 "swivel_guns_range":"125",
 "swivel_guns_damage_gun":"8",
-"swivel_guns_reload":"5.5",
+"swivel_guns_reload":"5.2",
 "swivel_guns_max_damage":"32",
 "swivel_accuracy_200":"100",
 "swivel_damage_200":"32",
-"swivel_dps_200":"5.82",
+"swivel_dps_200":"6.15",
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
-"swivel_dps_400":"5.82",
-"last_updated":"0"
+"swivel_dps_400":"6.15",
+"last_updated":"2022-05"
 
 },
 
@@ -18108,7 +18108,7 @@
 "crew":"420",
 "target_tracking":"12",
 "base_durability":"3",
-"insurance_value":"175099",
+"insurance_value":"159308",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"13.25",
@@ -18253,7 +18253,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.00",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -18271,7 +18271,7 @@
 "crew":"820",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"2385734",
+"insurance_value":"1200826",
 "os_best_sailing_point":"135",
 "os_max_speed":"46",
 "os_upwind_speed":"11.5",
@@ -18416,7 +18416,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -18434,7 +18434,7 @@
 "crew":"200",
 "target_tracking":"16",
 "base_durability":"3",
-"insurance_value":"34572",
+"insurance_value":"39551",
 "os_best_sailing_point":"135",
 "os_max_speed":"58",
 "os_upwind_speed":"17.4",
@@ -18579,7 +18579,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.33",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -18742,7 +18742,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -18760,7 +18760,7 @@
 "crew":"60",
 "target_tracking":"23",
 "base_durability":"6",
-"insurance_value":"1378",
+"insurance_value":"1217",
 "os_best_sailing_point":"90",
 "os_max_speed":"64",
 "os_upwind_speed":"20.48",
@@ -18905,7 +18905,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -19068,7 +19068,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -19076,16 +19076,16 @@
 "ID":"117",
 "model":"Jury Rigged Barrel",
 "level":"1",
-"type":"0",
-"variant":"0",
+"type":"Vessel of Last Resort",
+"variant":"Barrel",
 "size":"Tiny",
 "classes":"NO / PV / FT / BC / CT",
-"cargo_capacity":"0",
-"os_visibility":"100",
+"cargo_capacity":"1",
+"os_visibility":"42.9",
 "os_spotting":"0",
-"crew":"0",
+"crew":"1",
 "target_tracking":"0",
-"base_durability":"0",
+"base_durability":"999",
 "insurance_value":"0",
 "os_best_sailing_point":"135",
 "os_max_speed":"0",
@@ -19096,25 +19096,25 @@
 "os_broad_reach_speed":"0",
 "os_running_speed":"0",
 "battle_best_sailing_point":"135",
-"battle_max_speed":"0",
-"battle_acceleration":"0",
-"battle_deceleration":"0",
-"battle_turning_fast":"0",
-"battle_turning_slow":"0",
-"battle_turning_accelerating":"0",
-"battle_turning_decelerating":"0",
+"battle_max_speed":"14",
+"battle_acceleration":"3.01",
+"battle_deceleration":"1.08",
+"battle_turning_fast":"17",
+"battle_turning_slow":"6",
+"battle_turning_accelerating":"17",
+"battle_turning_decelerating":"5.1",
 "battle_upwind_speed":"0",
 "battle_luffing_speed":"0",
 "battle_close_haul_speed":"0",
 "battle_beam_reach_speed":"0",
 "battle_broad_reach_speed":"0",
 "battle_running_speed":"0",
-"structure_integrity":"0",
-"port_armour":"0",
-"starboard_armour":"0",
-"bow_armour":"0",
-"stern_armour":"0",
-"mast_integrity":"0",
+"structure_integrity":"100",
+"port_armour":"10",
+"starboard_armour":"10",
+"bow_armour":"10",
+"stern_armour":"10",
+"mast_integrity":"175",
 "structure_dr":"0",
 "port_dr":"0",
 "starboard_dr":"0",
@@ -19122,19 +19122,19 @@
 "stern_dr":"0",
 "mast_dr":"0",
 "mast_offence":"0",
-"mast_defence":"0",
+"mast_defence":"45",
 "mast_resist":"0",
 "crew_offence":"0",
-"crew_defence":"0",
+"crew_defence":"45",
 "crew_resist":"0",
 "bow_offence":"0",
-"bow_defence":"0",
+"bow_defence":"45",
 "bow_resist":"0",
 "stern_offence":"0",
-"stern_defence":"0",
+"stern_defence":"45",
 "stern_resist":"0",
 "sides_offence":"0",
-"sides_defence":"0",
+"sides_defence":"45",
 "sides_resist":"0",
 "grappling_offence":"0",
 "grappling_defence":"0",
@@ -19151,7 +19151,7 @@
 "top_deck_weight":"0",
 "top_deck_range":"0",
 "top_deck_damage_gun":"0",
-"top_deck_reload":"1",
+"top_deck_reload":"0",
 "top_deck_max_damage":"0",
 "top_deck_accuracy_200":"0",
 "top_deck_damage_200":"0",
@@ -19163,7 +19163,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -19175,7 +19175,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -19187,7 +19187,7 @@
 "gun_deck_weight":"0",
 "gun_deck_range":"0",
 "gun_deck_damage_gun":"0",
-"gun_deck_reload":"1",
+"gun_deck_reload":"0",
 "gun_deck_max_damage":"0",
 "gun_deck_accuracy_200":"0",
 "gun_deck_damage_200":"0",
@@ -19199,7 +19199,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -19211,7 +19211,7 @@
 "stern_chasers_weight":"0",
 "stern_chasers_range":"0",
 "stern_chasers_damage_gun":"0",
-"stern_chasers_reload":"1",
+"stern_chasers_reload":"0",
 "stern_chasers_max_damage":"0",
 "stern_chasers_accuracy_200":"0",
 "stern_chasers_damage_200":"0",
@@ -19249,7 +19249,7 @@
 "crew":"160",
 "target_tracking":"16",
 "base_durability":"3",
-"insurance_value":"27131",
+"insurance_value":"22359",
 "os_best_sailing_point":"180",
 "os_max_speed":"64",
 "os_upwind_speed":"22.4",
@@ -19338,7 +19338,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -19362,7 +19362,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -19394,7 +19394,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.48",
-"last_updated":"0"
+"last_updated":"2022-05"
 
 },
 
@@ -19720,7 +19720,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.20",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -19738,7 +19738,7 @@
 "crew":"60",
 "target_tracking":"26",
 "base_durability":"4",
-"insurance_value":"2141",
+"insurance_value":"1919",
 "os_best_sailing_point":"135",
 "os_max_speed":"59",
 "os_upwind_speed":"18.29",
@@ -19883,7 +19883,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20046,7 +20046,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"15.2",
 "swivel_dps_400":"2.76",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20209,7 +20209,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20227,7 +20227,7 @@
 "crew":"60",
 "target_tracking":"28",
 "base_durability":"3",
-"insurance_value":"3947",
+"insurance_value":"4713",
 "os_best_sailing_point":"135",
 "os_max_speed":"59",
 "os_upwind_speed":"18.29",
@@ -20372,7 +20372,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.33",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20390,7 +20390,7 @@
 "crew":"32",
 "target_tracking":"23",
 "base_durability":"5",
-"insurance_value":"1099",
+"insurance_value":"1002",
 "os_best_sailing_point":"90",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -20535,7 +20535,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20553,7 +20553,7 @@
 "crew":"100",
 "target_tracking":"25",
 "base_durability":"3",
-"insurance_value":"4456",
+"insurance_value":"4050",
 "os_best_sailing_point":"90",
 "os_max_speed":"64",
 "os_upwind_speed":"19.2",
@@ -20698,7 +20698,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.80",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20716,7 +20716,7 @@
 "crew":"160",
 "target_tracking":"20",
 "base_durability":"4",
-"insurance_value":"35764",
+"insurance_value":"30145",
 "os_best_sailing_point":"135",
 "os_max_speed":"48",
 "os_upwind_speed":"12",
@@ -20861,7 +20861,7 @@
 "swivel_accuracy_400":"0",
 "swivel_damage_400":"0",
 "swivel_dps_400":"0.00",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -20879,7 +20879,7 @@
 "crew":"110",
 "target_tracking":"20",
 "base_durability":"4",
-"insurance_value":"6872",
+"insurance_value":"4955",
 "os_best_sailing_point":"135",
 "os_max_speed":"61",
 "os_upwind_speed":"15.86",
@@ -21024,7 +21024,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -21187,7 +21187,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -21350,7 +21350,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"21.6",
 "swivel_dps_400":"3.93",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -21368,7 +21368,7 @@
 "crew":"110",
 "target_tracking":"22",
 "base_durability":"3",
-"insurance_value":"10559",
+"insurance_value":"10059",
 "os_best_sailing_point":"135",
 "os_max_speed":"61",
 "os_upwind_speed":"16.47",
@@ -21513,7 +21513,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.00",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -21531,7 +21531,7 @@
 "crew":"70",
 "target_tracking":"20",
 "base_durability":"4",
-"insurance_value":"4681",
+"insurance_value":"3612",
 "os_best_sailing_point":"135",
 "os_max_speed":"61",
 "os_upwind_speed":"15.86",
@@ -21676,7 +21676,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -21694,7 +21694,7 @@
 "crew":"60",
 "target_tracking":"17",
 "base_durability":"6",
-"insurance_value":"2232",
+"insurance_value":"2077",
 "os_best_sailing_point":"135",
 "os_max_speed":"61",
 "os_upwind_speed":"15.25",
@@ -21839,7 +21839,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22002,7 +22002,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22165,7 +22165,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22183,7 +22183,7 @@
 "crew":"500",
 "target_tracking":"13",
 "base_durability":"3",
-"insurance_value":"600275",
+"insurance_value":"574410",
 "os_best_sailing_point":"135",
 "os_max_speed":"50",
 "os_upwind_speed":"16.25",
@@ -22239,11 +22239,11 @@
 "broadside_total_guns":"34",
 "broadside_weight":"600",
 "broadside_max_range":"750",
-"broadside_max_damage":"1285",
-"broadside_damage_200":"1285",
-"broadside_dps_200":"29.91",
-"broadside_damage_400":"1285",
-"broadside_dps_400":"29.91",
+"broadside_max_damage":"1272",
+"broadside_damage_200":"1272",
+"broadside_dps_200":"29.68",
+"broadside_damage_400":"1272",
+"broadside_dps_400":"29.68",
 "top_deck_guns_per_side":"6 x 9.0",
 "top_deck_weight":"54",
 "top_deck_range":"750",
@@ -22268,30 +22268,30 @@
 "upper_deck_accuracy_400":"156",
 "upper_deck_damage_400":"507",
 "upper_deck_dps_400":"12.07",
-"middle_deck_guns_per_side":"13 x 24.0",
-"middle_deck_weight":"312",
-"middle_deck_range":"750",
-"middle_deck_damage_gun":"46",
-"middle_deck_reload":"57",
-"middle_deck_max_damage":"598",
-"middle_deck_accuracy_200":"148",
-"middle_deck_damage_200":"598",
-"middle_deck_dps_200":"10.49",
-"middle_deck_accuracy_400":"156",
-"middle_deck_damage_400":"598",
-"middle_deck_dps_400":"10.49",
-"gun_deck_guns_per_side":"0 x 0.0",
-"gun_deck_weight":"0",
-"gun_deck_range":"0",
-"gun_deck_damage_gun":"0",
-"gun_deck_reload":"0",
-"gun_deck_max_damage":"0",
-"gun_deck_accuracy_200":"0",
-"gun_deck_damage_200":"0",
-"gun_deck_dps_200":"0.00",
-"gun_deck_accuracy_400":"0",
-"gun_deck_damage_400":"0",
-"gun_deck_dps_400":"0.00",
+"middle_deck_guns_per_side":"0 x 0.0",
+"middle_deck_weight":"0",
+"middle_deck_range":"0",
+"middle_deck_damage_gun":"0",
+"middle_deck_reload":"0",
+"middle_deck_max_damage":"0",
+"middle_deck_accuracy_200":"0",
+"middle_deck_damage_200":"0",
+"middle_deck_dps_200":"0.00",
+"middle_deck_accuracy_400":"0",
+"middle_deck_damage_400":"0",
+"middle_deck_dps_400":"0.00",
+"gun_deck_guns_per_side":"13 x 24.0",
+"gun_deck_weight":"312",
+"gun_deck_range":"750",
+"gun_deck_damage_gun":"45",
+"gun_deck_reload":"57",
+"gun_deck_max_damage":"585",
+"gun_deck_accuracy_200":"148",
+"gun_deck_damage_200":"585",
+"gun_deck_dps_200":"10.26",
+"gun_deck_accuracy_400":"156",
+"gun_deck_damage_400":"585",
+"gun_deck_dps_400":"10.26",
 "bow_chasers_guns_per_side":"1 x 6.0",
 "bow_chasers_weight":"6",
 "bow_chasers_range":"750",
@@ -22328,7 +22328,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22346,7 +22346,7 @@
 "crew":"115",
 "target_tracking":"22",
 "base_durability":"4",
-"insurance_value":"6310",
+"insurance_value":"5557",
 "os_best_sailing_point":"135",
 "os_max_speed":"61",
 "os_upwind_speed":"18.3",
@@ -22491,7 +22491,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22654,7 +22654,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"15.2",
 "swivel_dps_400":"2.76",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22817,7 +22817,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"14.4",
 "swivel_dps_400":"2.62",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -22835,7 +22835,7 @@
 "crew":"115",
 "target_tracking":"23",
 "base_durability":"3",
-"insurance_value":"10094",
+"insurance_value":"10586",
 "os_best_sailing_point":"135",
 "os_max_speed":"61",
 "os_upwind_speed":"18.3",
@@ -22980,13 +22980,13 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.33",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
 {
 "ID":"141",
-"model":"Locust Sleek Corvette",
+"model":"Locust Sleek Corvette (Obsolete)",
 "level":"20",
 "type":"Scout",
 "variant":"Sleek",
@@ -23143,7 +23143,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.20",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -23161,7 +23161,7 @@
 "crew":"70",
 "target_tracking":"20",
 "base_durability":"8",
-"insurance_value":"1050",
+"insurance_value":"1030",
 "os_best_sailing_point":"135",
 "os_max_speed":"59",
 "os_upwind_speed":"23.6",
@@ -23306,7 +23306,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"0",
 "swivel_dps_400":"0.00",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -23324,7 +23324,7 @@
 "crew":"350",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"230353",
+"insurance_value":"206634",
 "os_best_sailing_point":"135",
 "os_max_speed":"56",
 "os_upwind_speed":"23.8",
@@ -23469,7 +23469,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.80",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -23487,7 +23487,7 @@
 "crew":"600",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"1009182",
+"insurance_value":"493450",
 "os_best_sailing_point":"135",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -23632,7 +23632,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -23640,7 +23640,7 @@
 "ID":"145",
 "model":"Mars Frigate",
 "level":"50",
-"type":"Scout",
+"type":"Heavy",
 "variant":"Standard",
 "size":"Huge",
 "classes":"NO",
@@ -23650,7 +23650,7 @@
 "crew":"195",
 "target_tracking":"14",
 "base_durability":"3",
-"insurance_value":"41966",
+"insurance_value":"34992",
 "os_best_sailing_point":"135",
 "os_max_speed":"52",
 "os_upwind_speed":"18.2",
@@ -23739,7 +23739,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -23795,7 +23795,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -23813,7 +23813,7 @@
 "crew":"90",
 "target_tracking":"24",
 "base_durability":"4",
-"insurance_value":"3342",
+"insurance_value":"2687",
 "os_best_sailing_point":"90",
 "os_max_speed":"64",
 "os_upwind_speed":"19.2",
@@ -23958,7 +23958,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24121,7 +24121,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24284,7 +24284,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"21.6",
 "swivel_dps_400":"3.93",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24447,7 +24447,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24465,7 +24465,7 @@
 "crew":"90",
 "target_tracking":"25",
 "base_durability":"3",
-"insurance_value":"6557",
+"insurance_value":"6614",
 "os_best_sailing_point":"90",
 "os_max_speed":"64",
 "os_upwind_speed":"19.2",
@@ -24610,7 +24610,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.00",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24628,7 +24628,7 @@
 "crew":"4",
 "target_tracking":"0",
 "base_durability":"10",
-"insurance_value":"272",
+"insurance_value":"183",
 "os_best_sailing_point":"90",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -24773,7 +24773,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24936,7 +24936,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.11",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -24954,7 +24954,7 @@
 "crew":"170",
 "target_tracking":"19",
 "base_durability":"4",
-"insurance_value":"26948",
+"insurance_value":"20297",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.82",
@@ -25099,7 +25099,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -25262,7 +25262,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"15.2",
 "swivel_dps_400":"2.76",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -25280,7 +25280,7 @@
 "crew":"175",
 "target_tracking":"19",
 "base_durability":"4",
-"insurance_value":"29927",
+"insurance_value":"23918",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.82",
@@ -25425,7 +25425,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.48",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -25434,7 +25434,7 @@
 "model":"Mignone Privateer Indiaman",
 "level":"50",
 "type":"Merchant",
-"variant":"Standard",
+"variant":"Refit",
 "size":"Huge",
 "classes":"PV",
 "cargo_capacity":"850",
@@ -25443,7 +25443,7 @@
 "crew":"175",
 "target_tracking":"17",
 "base_durability":"3",
-"insurance_value":"40653",
+"insurance_value":"34459",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.82",
@@ -25588,7 +25588,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.48",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -25606,7 +25606,7 @@
 "crew":"85",
 "target_tracking":"19",
 "base_durability":"4",
-"insurance_value":"13199",
+"insurance_value":"19337",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.82",
@@ -25751,7 +25751,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -25769,7 +25769,7 @@
 "crew":"180",
 "target_tracking":"19",
 "base_durability":"4",
-"insurance_value":"19416",
+"insurance_value":"13192",
 "os_best_sailing_point":"135",
 "os_max_speed":"63",
 "os_upwind_speed":"18.9",
@@ -25914,7 +25914,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.08",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -25932,7 +25932,7 @@
 "crew":"195",
 "target_tracking":"19",
 "base_durability":"4",
-"insurance_value":"24371",
+"insurance_value":"20341",
 "os_best_sailing_point":"135",
 "os_max_speed":"63",
 "os_upwind_speed":"18.9",
@@ -26077,7 +26077,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.20",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -26095,7 +26095,7 @@
 "crew":"175",
 "target_tracking":"23",
 "base_durability":"3",
-"insurance_value":"35930",
+"insurance_value":"30006",
 "os_best_sailing_point":"135",
 "os_max_speed":"59",
 "os_upwind_speed":"15.34",
@@ -26240,7 +26240,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.48",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -26403,7 +26403,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.48",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -26421,7 +26421,7 @@
 "crew":"350",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"221876",
+"insurance_value":"197522",
 "os_best_sailing_point":"135",
 "os_max_speed":"52",
 "os_upwind_speed":"13",
@@ -26566,7 +26566,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -26729,7 +26729,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -26747,7 +26747,7 @@
 "crew":"165",
 "target_tracking":"16",
 "base_durability":"4",
-"insurance_value":"26934",
+"insurance_value":"20525",
 "os_best_sailing_point":"135",
 "os_max_speed":"55",
 "os_upwind_speed":"14.85",
@@ -26892,7 +26892,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -27055,7 +27055,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"30.4",
 "swivel_dps_400":"5.53",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -27140,10 +27140,10 @@
 "top_deck_damage_gun":"28",
 "top_deck_reload":"20.5",
 "top_deck_max_damage":"56",
-"top_deck_accuracy_200":"148",
+"top_deck_accuracy_200":"149",
 "top_deck_damage_200":"56",
 "top_deck_dps_200":"2.73",
-"top_deck_accuracy_400":"156",
+"top_deck_accuracy_400":"157",
 "top_deck_damage_400":"56",
 "top_deck_dps_400":"2.73",
 "upper_deck_guns_per_side":"0 x 0.0",
@@ -27176,10 +27176,10 @@
 "gun_deck_damage_gun":"33",
 "gun_deck_reload":"32.5",
 "gun_deck_max_damage":"429",
-"gun_deck_accuracy_200":"148",
+"gun_deck_accuracy_200":"149",
 "gun_deck_damage_200":"429",
 "gun_deck_dps_200":"13.20",
-"gun_deck_accuracy_400":"156",
+"gun_deck_accuracy_400":"157",
 "gun_deck_damage_400":"429",
 "gun_deck_dps_400":"13.20",
 "bow_chasers_guns_per_side":"0 x 0.0",
@@ -27200,10 +27200,10 @@
 "stern_chasers_damage_gun":"33",
 "stern_chasers_reload":"32.5",
 "stern_chasers_max_damage":"33",
-"stern_chasers_accuracy_200":"148",
+"stern_chasers_accuracy_200":"149",
 "stern_chasers_damage_200":"33",
 "stern_chasers_dps_200":"1.02",
-"stern_chasers_accuracy_400":"156",
+"stern_chasers_accuracy_400":"157",
 "stern_chasers_damage_400":"33",
 "stern_chasers_dps_400":"1.02",
 "swivel_guns_guns_per_side":"4 x 0.5",
@@ -27218,7 +27218,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -27381,7 +27381,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.81",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -27399,7 +27399,7 @@
 "crew":"180",
 "target_tracking":"21",
 "base_durability":"4",
-"insurance_value":"12219",
+"insurance_value":"9367",
 "os_best_sailing_point":"90",
 "os_max_speed":"62",
 "os_upwind_speed":"24.8",
@@ -27544,7 +27544,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -27562,7 +27562,7 @@
 "crew":"150",
 "target_tracking":"19",
 "base_durability":"3",
-"insurance_value":"30381",
+"insurance_value":"29366",
 "os_best_sailing_point":"135",
 "os_max_speed":"65",
 "os_upwind_speed":"22.75",
@@ -27590,7 +27590,7 @@
 "starboard_armour":"885",
 "bow_armour":"445",
 "stern_armour":"225",
-"mast_integrity":"1540",
+"mast_integrity":"1570",
 "structure_dr":"0",
 "port_dr":"4",
 "starboard_dr":"4",
@@ -27639,7 +27639,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -27651,7 +27651,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -27663,7 +27663,7 @@
 "gun_deck_weight":"0",
 "gun_deck_range":"0",
 "gun_deck_damage_gun":"0",
-"gun_deck_reload":"1",
+"gun_deck_reload":"0",
 "gun_deck_max_damage":"0",
 "gun_deck_accuracy_200":"0",
 "gun_deck_damage_200":"0",
@@ -27675,7 +27675,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -27687,7 +27687,7 @@
 "stern_chasers_weight":"0",
 "stern_chasers_range":"0",
 "stern_chasers_damage_gun":"0",
-"stern_chasers_reload":"1",
+"stern_chasers_reload":"0",
 "stern_chasers_max_damage":"0",
 "stern_chasers_accuracy_200":"0",
 "stern_chasers_damage_200":"0",
@@ -27707,7 +27707,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.20",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -27870,7 +27870,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.22",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -28033,7 +28033,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.33",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -28051,7 +28051,7 @@
 "crew":"190",
 "target_tracking":"14",
 "base_durability":"4",
-"insurance_value":"28748",
+"insurance_value":"21747",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"13.25",
@@ -28196,7 +28196,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -28214,7 +28214,7 @@
 "crew":"195",
 "target_tracking":"14",
 "base_durability":"3",
-"insurance_value":"42982",
+"insurance_value":"36215",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"13.25",
@@ -28350,16 +28350,16 @@
 "swivel_guns_guns_per_side":"2 x 0.5",
 "swivel_guns_weight":"1",
 "swivel_guns_range":"125",
-"swivel_guns_damage_gun":"9",
+"swivel_guns_damage_gun":"8",
 "swivel_guns_reload":"4.8",
-"swivel_guns_max_damage":"18",
+"swivel_guns_max_damage":"16",
 "swivel_accuracy_200":"100",
-"swivel_damage_200":"18",
-"swivel_dps_200":"3.75",
+"swivel_damage_200":"16",
+"swivel_dps_200":"3.33",
 "swivel_accuracy_400":"100",
-"swivel_damage_400":"18",
-"swivel_dps_400":"3.75",
-"last_updated":"0"
+"swivel_damage_400":"16",
+"swivel_dps_400":"3.33",
+"last_updated":"2022"
 
 },
 
@@ -28377,7 +28377,7 @@
 "crew":"54",
 "target_tracking":"20",
 "base_durability":"8",
-"insurance_value":"812",
+"insurance_value":"709",
 "os_best_sailing_point":"135",
 "os_max_speed":"59",
 "os_upwind_speed":"15.34",
@@ -28522,7 +28522,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -28685,7 +28685,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"15.2",
 "swivel_dps_400":"2.76",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -28848,7 +28848,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -28866,7 +28866,7 @@
 "crew":"155",
 "target_tracking":"22",
 "base_durability":"3",
-"insurance_value":"33064",
+"insurance_value":"26168",
 "os_best_sailing_point":"135",
 "os_max_speed":"60",
 "os_upwind_speed":"22.5",
@@ -29011,7 +29011,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -29029,7 +29029,7 @@
 "crew":"400",
 "target_tracking":"13",
 "base_durability":"3",
-"insurance_value":"175099",
+"insurance_value":"156974",
 "os_best_sailing_point":"135",
 "os_max_speed":"49",
 "os_upwind_speed":"18.38",
@@ -29118,7 +29118,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -29174,7 +29174,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -29337,7 +29337,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -29355,7 +29355,7 @@
 "crew":"140",
 "target_tracking":"19",
 "base_durability":"3",
-"insurance_value":"16216",
+"insurance_value":"11878",
 "os_best_sailing_point":"135",
 "os_max_speed":"60",
 "os_upwind_speed":"20.4",
@@ -29500,7 +29500,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.27",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -29518,7 +29518,7 @@
 "crew":"140",
 "target_tracking":"19",
 "base_durability":"3",
-"insurance_value":"13787",
+"insurance_value":"8945",
 "os_best_sailing_point":"135",
 "os_max_speed":"60",
 "os_upwind_speed":"20.4",
@@ -29663,7 +29663,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -29715,7 +29715,7 @@
 "starboard_dr":"12",
 "bow_dr":"11",
 "stern_dr":"10",
-"mast_dr":"8",
+"mast_dr":"10",
 "mast_offence":"0",
 "mast_defence":"17",
 "mast_resist":"0",
@@ -29826,7 +29826,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -29989,7 +29989,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30007,7 +30007,7 @@
 "crew":"168",
 "target_tracking":"17",
 "base_durability":"3",
-"insurance_value":"26015",
+"insurance_value":"20395",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"17.1",
@@ -30152,7 +30152,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30315,7 +30315,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30478,7 +30478,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.62",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30496,7 +30496,7 @@
 "crew":"180",
 "target_tracking":"16",
 "base_durability":"4",
-"insurance_value":"22329",
+"insurance_value":"17938",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"17.1",
@@ -30641,7 +30641,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.00",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30804,7 +30804,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.71",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30967,7 +30967,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -30985,7 +30985,7 @@
 "crew":"375",
 "target_tracking":"15",
 "base_durability":"2",
-"insurance_value":"221876",
+"insurance_value":"197522",
 "os_best_sailing_point":"135",
 "os_max_speed":"52",
 "os_upwind_speed":"13",
@@ -31130,7 +31130,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.11",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -31293,7 +31293,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"5.22",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -31311,7 +31311,7 @@
 "crew":"50",
 "target_tracking":"21",
 "base_durability":"7",
-"insurance_value":"921",
+"insurance_value":"965",
 "os_best_sailing_point":"35",
 "os_max_speed":"60",
 "os_upwind_speed":"24",
@@ -31456,7 +31456,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -31474,7 +31474,7 @@
 "crew":"190",
 "target_tracking":"13",
 "base_durability":"3",
-"insurance_value":"33842",
+"insurance_value":"26725",
 "os_best_sailing_point":"135",
 "os_max_speed":"58",
 "os_upwind_speed":"20.3",
@@ -31551,7 +31551,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -31563,7 +31563,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -31587,7 +31587,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -31599,7 +31599,7 @@
 "stern_chasers_weight":"0",
 "stern_chasers_range":"0",
 "stern_chasers_damage_gun":"0",
-"stern_chasers_reload":"1",
+"stern_chasers_reload":"0",
 "stern_chasers_max_damage":"0",
 "stern_chasers_accuracy_200":"0",
 "stern_chasers_damage_200":"0",
@@ -31619,7 +31619,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -31637,7 +31637,7 @@
 "crew":"170",
 "target_tracking":"16",
 "base_durability":"4",
-"insurance_value":"16008",
+"insurance_value":"13382",
 "os_best_sailing_point":"135",
 "os_max_speed":"64",
 "os_upwind_speed":"22.4",
@@ -31726,7 +31726,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -31750,7 +31750,7 @@
 "bow_chasers_weight":"0",
 "bow_chasers_range":"0",
 "bow_chasers_damage_gun":"0",
-"bow_chasers_reload":"1",
+"bow_chasers_reload":"0",
 "bow_chasers_max_damage":"0",
 "bow_chasers_accuracy_200":"0",
 "bow_chasers_damage_200":"0",
@@ -31782,7 +31782,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -31800,7 +31800,7 @@
 "crew":"365",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"267103",
+"insurance_value":"231246",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"21.2",
@@ -31945,7 +31945,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -31963,7 +31963,7 @@
 "crew":"280",
 "target_tracking":"14",
 "base_durability":"4",
-"insurance_value":"40094",
+"insurance_value":"29226",
 "os_best_sailing_point":"135",
 "os_max_speed":"51",
 "os_upwind_speed":"12.75",
@@ -31997,7 +31997,7 @@
 "starboard_dr":"9",
 "bow_dr":"8",
 "stern_dr":"7",
-"mast_dr":"5",
+"mast_dr":"6",
 "mast_offence":"2",
 "mast_defence":"12",
 "mast_resist":"0",
@@ -32108,7 +32108,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -32271,7 +32271,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.67",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -32289,7 +32289,7 @@
 "crew":"110",
 "target_tracking":"14",
 "base_durability":"3",
-"insurance_value":"38326",
+"insurance_value":"30123",
 "os_best_sailing_point":"135",
 "os_max_speed":"51",
 "os_upwind_speed":"12.75",
@@ -32434,7 +32434,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -32597,7 +32597,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"5.82",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -32615,7 +32615,7 @@
 "crew":"175",
 "target_tracking":"16",
 "base_durability":"3",
-"insurance_value":"28873",
+"insurance_value":"22649",
 "os_best_sailing_point":"135",
 "os_max_speed":"55",
 "os_upwind_speed":"16.5",
@@ -32663,7 +32663,7 @@
 "stern_defence":"19",
 "stern_resist":"0",
 "sides_offence":"0",
-"sides_defence":"21",
+"sides_defence":"20",
 "sides_resist":"0",
 "grappling_offence":"0",
 "grappling_defence":"0",
@@ -32692,7 +32692,7 @@
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -32704,7 +32704,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -32724,30 +32724,30 @@
 "gun_deck_accuracy_400":"155",
 "gun_deck_damage_400":"435.5",
 "gun_deck_dps_400":"13.65",
-"bow_chasers_guns_per_side":"1 x 12.0",
-"bow_chasers_weight":"12",
-"bow_chasers_range":"750",
-"bow_chasers_damage_gun":"33.5",
-"bow_chasers_reload":"31.9",
-"bow_chasers_max_damage":"33.5",
-"bow_chasers_accuracy_200":"148",
-"bow_chasers_damage_200":"33.5",
-"bow_chasers_dps_200":"1.05",
-"bow_chasers_accuracy_400":"155",
-"bow_chasers_damage_400":"33.5",
-"bow_chasers_dps_400":"1.05",
-"stern_chasers_guns_per_side":"0 x 0.0",
-"stern_chasers_weight":"0",
-"stern_chasers_range":"0",
-"stern_chasers_damage_gun":"0",
-"stern_chasers_reload":"1",
-"stern_chasers_max_damage":"0",
-"stern_chasers_accuracy_200":"0",
-"stern_chasers_damage_200":"0",
-"stern_chasers_dps_200":"0.00",
-"stern_chasers_accuracy_400":"0",
-"stern_chasers_damage_400":"0",
-"stern_chasers_dps_400":"0.00",
+"bow_chasers_guns_per_side":"0 x 0.0",
+"bow_chasers_weight":"0",
+"bow_chasers_range":"0",
+"bow_chasers_damage_gun":"0",
+"bow_chasers_reload":"0",
+"bow_chasers_max_damage":"0",
+"bow_chasers_accuracy_200":"0",
+"bow_chasers_damage_200":"0",
+"bow_chasers_dps_200":"0.00",
+"bow_chasers_accuracy_400":"0",
+"bow_chasers_damage_400":"0",
+"bow_chasers_dps_400":"0.00",
+"stern_chasers_guns_per_side":"1 x 12.0",
+"stern_chasers_weight":"12",
+"stern_chasers_range":"750",
+"stern_chasers_damage_gun":"33.5",
+"stern_chasers_reload":"31.9",
+"stern_chasers_max_damage":"33.5",
+"stern_chasers_accuracy_200":"148",
+"stern_chasers_damage_200":"33.5",
+"stern_chasers_dps_200":"1.05",
+"stern_chasers_accuracy_400":"155",
+"stern_chasers_damage_400":"33.5",
+"stern_chasers_dps_400":"1.05",
 "swivel_guns_guns_per_side":"4 x 0.5",
 "swivel_guns_weight":"2",
 "swivel_guns_range":"125",
@@ -32760,13 +32760,13 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"32",
 "swivel_dps_400":"6.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
 {
 "ID":"201",
-"model":"Santa Rosa Refit Frigate",
+"model":"Santa Rosa Privateer Fourth Rate",
 "level":"50",
 "type":"Ship of the Line",
 "variant":"Refit",
@@ -32778,7 +32778,7 @@
 "crew":"380",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"267103",
+"insurance_value":"241046",
 "os_best_sailing_point":"135",
 "os_max_speed":"53",
 "os_upwind_speed":"13.25",
@@ -32923,7 +32923,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.33",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -32941,7 +32941,7 @@
 "crew":"94",
 "target_tracking":"18",
 "base_durability":"5",
-"insurance_value":"8684",
+"insurance_value":"6038",
 "os_best_sailing_point":"135",
 "os_max_speed":"56",
 "os_upwind_speed":"14",
@@ -33086,7 +33086,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -33249,7 +33249,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"22.8",
 "swivel_dps_400":"4.15",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -33412,7 +33412,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -33430,7 +33430,7 @@
 "crew":"750",
 "target_tracking":"13",
 "base_durability":"2",
-"insurance_value":"1455512",
+"insurance_value":"770617",
 "os_best_sailing_point":"135",
 "os_max_speed":"47",
 "os_upwind_speed":"11.75",
@@ -33575,7 +33575,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -33651,26 +33651,26 @@
 "broadside_max_range":"750",
 "broadside_max_damage":"496",
 "broadside_damage_200":"496",
-"broadside_dps_200":"17.70",
+"broadside_dps_200":"18.60",
 "broadside_damage_400":"496",
-"broadside_dps_400":"17.70",
+"broadside_dps_400":"18.60",
 "top_deck_guns_per_side":"8 x 8.0",
 "top_deck_weight":"64",
 "top_deck_range":"750",
 "top_deck_damage_gun":"28.5",
-"top_deck_reload":"23.5",
+"top_deck_reload":"21.5",
 "top_deck_max_damage":"228",
 "top_deck_accuracy_200":"148",
 "top_deck_damage_200":"228",
-"top_deck_dps_200":"9.70",
+"top_deck_dps_200":"10.60",
 "top_deck_accuracy_400":"155",
 "top_deck_damage_400":"228",
-"top_deck_dps_400":"9.70",
+"top_deck_dps_400":"10.60",
 "upper_deck_guns_per_side":"0 x 0.0",
 "upper_deck_weight":"0",
 "upper_deck_range":"0",
 "upper_deck_damage_gun":"0",
-"upper_deck_reload":"1",
+"upper_deck_reload":"0",
 "upper_deck_max_damage":"0",
 "upper_deck_accuracy_200":"0",
 "upper_deck_damage_200":"0",
@@ -33682,7 +33682,7 @@
 "middle_deck_weight":"0",
 "middle_deck_range":"0",
 "middle_deck_damage_gun":"0",
-"middle_deck_reload":"1",
+"middle_deck_reload":"0",
 "middle_deck_max_damage":"0",
 "middle_deck_accuracy_200":"0",
 "middle_deck_damage_200":"0",
@@ -33738,7 +33738,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -33756,7 +33756,7 @@
 "crew":"870",
 "target_tracking":"14",
 "base_durability":"2",
-"insurance_value":"1857595",
+"insurance_value":"1234937",
 "os_best_sailing_point":"135",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -33901,7 +33901,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"2.91",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -33919,7 +33919,7 @@
 "crew":"26",
 "target_tracking":"15",
 "base_durability":"10",
-"insurance_value":"568",
+"insurance_value":"546",
 "os_best_sailing_point":"90",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -34064,7 +34064,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"8",
 "swivel_dps_400":"1.45",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -34079,10 +34079,10 @@
 "cargo_capacity":"175",
 "os_visibility":"79.8",
 "os_spotting":"0",
-"crew":"180",
+"crew":"185",
 "target_tracking":"18",
 "base_durability":"3",
-"insurance_value":"51507",
+"insurance_value":"40245",
 "os_best_sailing_point":"135",
 "os_max_speed":"0",
 "os_upwind_speed":"0",
@@ -34227,7 +34227,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"24",
 "swivel_dps_400":"4.36",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -34245,7 +34245,7 @@
 "crew":"165",
 "target_tracking":"19",
 "base_durability":"3",
-"insurance_value":"23869",
+"insurance_value":"18484",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.25",
@@ -34390,7 +34390,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.08",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -34553,7 +34553,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"15.2",
 "swivel_dps_400":"2.76",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -34571,7 +34571,7 @@
 "crew":"165",
 "target_tracking":"19",
 "base_durability":"4",
-"insurance_value":"20306",
+"insurance_value":"16199",
 "os_best_sailing_point":"135",
 "os_max_speed":"57",
 "os_upwind_speed":"14.25",
@@ -34716,7 +34716,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"16",
 "swivel_dps_400":"3.33",
-"last_updated":"0"
+"last_updated":"2022"
 
 },
 
@@ -36008,7 +36008,7 @@
 "stern_chasers_accuracy_400":"156",
 "stern_chasers_damage_400":"39",
 "stern_chasers_dps_400":"1.00",
-"swivel_guns_guns_per_side":"4 x",
+"swivel_guns_guns_per_side":"4 x ",
 "swivel_guns_weight":"0",
 "swivel_guns_range":"125",
 "swivel_guns_damage_gun":"8",
@@ -36497,7 +36497,7 @@
 "stern_chasers_accuracy_400":"156",
 "stern_chasers_damage_400":"33",
 "stern_chasers_dps_400":"1.02",
-"swivel_guns_guns_per_side":"2 x",
+"swivel_guns_guns_per_side":"2 x ",
 "swivel_guns_weight":"0",
 "swivel_guns_range":"125",
 "swivel_guns_damage_gun":"8",
