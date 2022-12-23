@@ -11,6 +11,7 @@ body {
 /* margin-top: 20px;*/
 }
 
+
 .comparematch {
     color:blue !important;
 }
@@ -129,6 +130,16 @@ select#format {
     text-decoration: none;
     color: #cccccc;
 }
+
+#topnav .nav .nav2 a {
+    margin-left: 8px;
+}
+
+.nav2 a {
+    white-space: nowrap;
+    margin-left: 8px;
+}
+
 
 #topnav .nav a:visited {
     color: #cccccc;
