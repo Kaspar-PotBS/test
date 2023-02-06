@@ -47016,15 +47016,15 @@
 "grappling_defence":"0",
 "grappling_resist":"0",
 "broadside_total_guns":"23",
-"broadside_weight":"290",
+"broadside_weight":"281",
 "broadside_max_range":"650",
 "broadside_max_damage":"721",
 "broadside_damage_200":"721",
 "broadside_dps_200":"24.05",
 "broadside_damage_400":"721",
 "broadside_dps_400":"24.05",
-"top_deck_guns_per_side":"9 x 12.0",
-"top_deck_weight":"108",
+"top_deck_guns_per_side":"9 x 11.0",
+"top_deck_weight":"99",
 "top_deck_range":"560",
 "top_deck_damage_gun":"31",
 "top_deck_reload":"26.7",
@@ -47107,7 +47107,7 @@
 "swivel_accuracy_400":"100",
 "swivel_damage_400":"28",
 "swivel_dps_400":"4.18",
-"last_updated":"2022-02"
+"last_updated":"2023-02"
 
 },
 
